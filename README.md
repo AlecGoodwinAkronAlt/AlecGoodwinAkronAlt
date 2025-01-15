@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+   I am currently a college-level programmer and artist that is focused on learning game design for my future career.
 <!--
 **AlecGoodwinAkronAlt/AlecGoodwinAkronAlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
